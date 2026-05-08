@@ -1,0 +1,6 @@
+2024-01-01 INFO System started
+2024-01-01 ERROR Disk failure
+2024-01-01 INFO User login
+2024-01-01 WARNING Memory low
+2024-01-01 ERROR Network issue
+2024-01-01 INFO File opened
